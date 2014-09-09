@@ -1,1 +1,2 @@
-Was wir können?
+Was wir können? //1
+Und was kann Git //2
