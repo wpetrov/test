@@ -1,3 +1,2 @@
 test Änderung über Web. https://github.com/wpetrov/test.git
-Was wir können? //1
 Und was kann Git //2
